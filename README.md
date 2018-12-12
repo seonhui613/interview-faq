@@ -1,4 +1,6 @@
-#1.작업폴더 및 파일 생성
+# 최초 프로젝트 생성 시 수행하는 작업
+
+##1.작업폴더 및 파일 생성
 ```bash
 mkdir interview-faq
 cd interview-faq
@@ -22,6 +24,25 @@ git remote -v
 ```
 
 ##5.로컬저장소 --업로드 --> 원격저장소
+```bash
+git push -u origin master
+```
+#프로젝트 중간에 수행하는 작업
+
+##1.작업폴더 및 파일 생성
+```bash
+mkdir interview-faq
+cd interview-faq
+echo "# interview-faq" >> README.md
+```
+##2.백업
+```bash
+git add --all
+git status
+git commit -m "first commit"
+git log
+```
+##3.로컬저장소 --업로드 --> 원격저장소
 ```bash
 git push -u origin master
 ```
