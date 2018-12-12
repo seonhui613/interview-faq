@@ -116,3 +116,4 @@ Plain Old Java Object. 간단히 포조 라는 말 그대로 해석하며 ㄴ오
 ### 22. DAO 와 DTO 는?
 ### 23. MVC1과 MVC2 패턴의 차이를 설명해 주세요.
 ### 24. 예외처리를 하는 이유와 RuntimeException 에 해당하는 것은?
+### 25. gradle과 maven의 차이점을 설명하세요.
