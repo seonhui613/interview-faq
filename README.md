@@ -27,7 +27,7 @@ git remote -v
 ```bash
 git push -u origin master
 ```
-#프로젝트 중간에 수행하는 작업
+# 프로젝트 중간에 수행하는 작업
 
 ## 1.작업폴더 및 파일 생성
 ```bash
